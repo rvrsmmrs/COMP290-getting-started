@@ -1,6 +1,6 @@
 Hey guys! Thank you for an awesome semester.
 
-This course is formatted in modules, of which I am completing 00 through 04.
+This course is formatted in modules, of which I am completing lessons 00, 01, 02, and 03.
 At the end of each module, there are a list of exercises to complete.
 I put all of those in the "exercises" folder.
 
